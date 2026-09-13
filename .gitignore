@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Esportazione grezza dei dati Facebook: contiene metadati personali
+# (indirizzi IP di upload, ecc.) — non va pubblicata. Vedi docs/README.md.
+facebook-tomasovaldinocimusicista-*/
+
+# File sorgente (foto e biografia .odt) già incorporati nel sito in
+# docs/assets/img/ e docs/biografia.html — non fanno parte del sito pubblicato.
+docs/IMG/
+docs/*.odt
+docs/Articoli/
+docs/dediche di grandi direttori, compositori e musicisti/
